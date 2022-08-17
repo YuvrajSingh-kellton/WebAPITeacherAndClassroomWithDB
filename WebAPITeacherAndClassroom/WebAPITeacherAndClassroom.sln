@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPITeacherAndClassroom", "WebAPITeacherAndClassroom.csproj", "{0450CD5A-3207-4027-AD9A-6F2A5A0EF273}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIDBLayer", "..\WebAPIDBLayer\WebAPIDBLayer.csproj", "{AADF0295-08AC-469D-AA59-9C65E202719E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0450CD5A-3207-4027-AD9A-6F2A5A0EF273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0450CD5A-3207-4027-AD9A-6F2A5A0EF273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0450CD5A-3207-4027-AD9A-6F2A5A0EF273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0450CD5A-3207-4027-AD9A-6F2A5A0EF273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AADF0295-08AC-469D-AA59-9C65E202719E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AADF0295-08AC-469D-AA59-9C65E202719E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AADF0295-08AC-469D-AA59-9C65E202719E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AADF0295-08AC-469D-AA59-9C65E202719E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F45F9210-F080-41A6-8F06-06FA4B039025}
+	EndGlobalSection
+EndGlobal
